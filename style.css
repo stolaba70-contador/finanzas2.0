@@ -530,3 +530,12 @@ body.tema-oscuro .form-select:focus {
   background: var(--surface);
   border-color: var(--accent);
 }
+body.tema-oscuro #login-screen {
+  background: #0a0a12;
+}
+
+body.tema-oscuro #login-screen input {
+  background: #1a1a2e;
+  border-color: #2d2d45;
+  color: white;
+}
